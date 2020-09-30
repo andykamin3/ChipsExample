@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChipExample</string>
+    <string name="arm_chips">Brazos</string>
+    <string name="legs_chips">Piernas</string>
+    <string name="back_chips">Espalda</string>
+    <string name="core">Core</string>
+    <string name="save">Save</string>
+</resources>
